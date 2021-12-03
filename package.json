@@ -1,0 +1,18 @@
+{
+  "name": "bot-discord-password-generator",
+  "version": "1.0.0",
+  "description": "Bot Discord Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OldModz95",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
